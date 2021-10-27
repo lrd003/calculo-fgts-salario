@@ -1,5 +1,5 @@
 Projeto de Gerenciamento de Configuração
-
+--------------------------------------------------
 Equipe de desenvolvimento:
 - Leonardo de Oliveira Gonçalves
 
