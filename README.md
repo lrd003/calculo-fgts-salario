@@ -1,8 +1,4 @@
-#Calculo sobre o FGTS baseado no salário do funcionario.
-
-Requisito solicitado pelo Cliente no dia 27/10
-Estimativa de horas trabalhadas: 2horas
-Entrega prevista: 27/10
+Projeto de Gerenciamento de Configuração
 
 Equipe de desenvolvimento:
 - Leonardo de Oliveira Gonçalves
