@@ -1,5 +1,7 @@
 # Calculo_Salarial
-Requisito solicitado pelo Cliente no dia 27/10 Estimativa de horas trabalhadas: 2horas Entrega prevista: 27/10
+Requisito solicitado pelo Cliente no dia 27/10.
+Estimativa de horas trabalhadas: 2horas.
+Entrega prevista: 27/10.
 
 Equipe de desenvolvimento:
 
