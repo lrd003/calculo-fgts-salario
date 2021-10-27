@@ -9,4 +9,4 @@ Linguagem usada:
 Ferramentas usadas:
 - Visual Code
 - GitHub
-- Google ( estudo da funcionalidade de calculo do FGTS)
+
